@@ -1,0 +1,6 @@
+[
+  {"id": "ai", "name": "Artificial Intelligence", "type": "Field", "description": "Simulation of human intelligence by machines."},
+  {"id": "ml", "name": "Machine Learning", "type": "Subfield", "description": "Algorithms that improve from experience."},
+  {"id": "dl", "name": "Deep Learning", "type": "Subfield", "description": "Neural networks with many layers."},
+  {"id": "nlp", "name": "Natural Language Processing", "type": "Subfield", "description": "Interaction between computers and human language."}
+]

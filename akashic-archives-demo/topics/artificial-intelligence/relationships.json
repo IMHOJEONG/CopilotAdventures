@@ -1,0 +1,6 @@
+[
+  {"source": "ai", "target": "ml", "type": "includes"},
+  {"source": "ml", "target": "dl", "type": "includes"},
+  {"source": "ai", "target": "nlp", "type": "includes"},
+  {"source": "dl", "target": "nlp", "type": "applied-in"}
+]

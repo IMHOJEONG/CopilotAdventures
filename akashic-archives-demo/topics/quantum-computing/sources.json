@@ -1,0 +1,4 @@
+[
+  {"id": "src1", "title": "Quantum Computing Overview", "url": "https://en.wikipedia.org/wiki/Quantum_computing", "quality": 0.9, "trust": 0.95},
+  {"id": "src2", "title": "Qubit", "url": "https://en.wikipedia.org/wiki/Qubit", "quality": 0.85, "trust": 0.9}
+]
