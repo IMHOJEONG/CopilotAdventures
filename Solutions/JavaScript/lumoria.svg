@@ -1,0 +1,24 @@
+<svg width="830" height="480" viewBox="0 0 830 480" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#0a1026"/>
+  <circle cx="415" cy="240" r="30" fill="gold" stroke="#fff8" stroke-width="2"/>
+  <text x="415" y="235" text-anchor="middle" fill="#fff" font-size="16" font-family="sans-serif">☀️</text>
+  <!-- 궤도 -->
+  <circle cx="415" cy="240" r="60" fill="none" stroke="#fff3" stroke-width="1"/>
+  <circle cx="415" cy="240" r="120" fill="none" stroke="#fff3" stroke-width="1"/>
+  <circle cx="415" cy="240" r="170" fill="none" stroke="#fff3" stroke-width="1"/>
+  <circle cx="415" cy="240" r="220" fill="none" stroke="#fff3" stroke-width="1"/>
+  <!-- 머큐리아 -->
+  <circle cx="475" cy="240" r="8" fill="#b5b5b5" stroke="#fff" stroke-width="1"/>
+  <text x="475" y="235" text-anchor="middle" fill="#fff" font-size="12" font-family="sans-serif">머큐리아</text>
+  <!-- 비누시아 -->
+  <circle cx="535" cy="240" r="20" fill="#e6c7a6" stroke="#fff" stroke-width="1"/>
+  <text x="535" y="235" text-anchor="middle" fill="#fff" font-size="12" font-family="sans-serif">비누시아</text>
+  <!-- 어스시아 -->
+  <circle cx="585" cy="240" r="22" fill="#4ec6e6" stroke="#fff" stroke-width="1"/>
+  <text x="585" y="235" text-anchor="middle" fill="#fff" font-size="12" font-family="sans-serif">어스시아</text>
+  <!-- 마르시아 -->
+  <circle cx="635" cy="240" r="12" fill="#c97a4e" stroke="#fff" stroke-width="1"/>
+  <text x="635" y="235" text-anchor="middle" fill="#fff" font-size="12" font-family="sans-serif">마르시아</text>
+  <!-- 제목 -->
+  <text x="415" y="40" text-anchor="middle" fill="#fff" font-size="28" font-family="serif" font-weight="bold">루모리아 항성계 행성 정렬</text>
+</svg>
